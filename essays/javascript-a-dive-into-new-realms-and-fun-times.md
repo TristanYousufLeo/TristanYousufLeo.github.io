@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img width="200px" class="rounded float-start pe-4" src="https://github.com/TristanYousufLeo/TristanYousufLeo.github.io/blob/main/img/javascript/20210613_161303%20(1).jpg"
+<img width="200px" class="rounded float-start pe-4" src="https://github.com/TristanYousufLeo/TristanYousufLeo.github.io/blob/main/img/javascript/20210613_161303%20(1).jpg">
 
 ## From Pythons to Javascripting
 
