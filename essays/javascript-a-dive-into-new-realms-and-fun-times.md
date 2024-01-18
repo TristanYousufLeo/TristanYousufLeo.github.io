@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+![Image of Kokohead](https://github.com/TristanYousufLeo/TristanYousufLeo.github.io/blob/main/img/javascript/kokoheadclimb.jpg)
 ## From Pythons to Javascripting
 
 I remember the time when I first took up coding. It was an outside institution called DevLeague from the year 2016 that provided a lot of great experiences when it comes to dipping my toes in the world of coding and computer science in general. From working with a build of Linux that only ever used the terminal for everday use (which proved invaluable when it came time for me to take ICS 212 at UH) to getting to know the wonders of Github for safekeeping of code and programs, DevLeague was a very unique and exciting experience. It was also where I first dipped my toes into the world of programming, with Python as my first language. Now, nearly ten years later, I have experienced many more languages to program with. Some were relatively simple to work with, like Java. Others... not so much (looking at you, C and C++). More than anything though, they have helped prepare me for the next language to add to my repertoire of languages: Javascript.
