@@ -9,7 +9,7 @@ labels:
   - Questions
   - Stack Overflow
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/javascript/20210613_161303%20(1).jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Cliparts-about-questions-clipart-clipart-kid-3.jpeg">
 
 ## Questions? Questions!
 
