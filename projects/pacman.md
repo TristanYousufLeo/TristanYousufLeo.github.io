@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/Pacman_HD.png
+image: img/projects/Screenshot%202024-01-26%20195653.png
 title: "Pac-Man"
 date: 1/26/2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A collaborated game that I co-developed for ICS 111."
 ---
 
-<img class="img-fluid" src="../img/projects/Pacman_HD.png">
+<img class="img-fluid" src="../img/projects/Screenshot%202024-01-26%20195653.png">
 
 This Pac-Man game was my final project for ICS 111, in collaboration with two other students in my class. This game featured the fullest extent of our Java knowledge at the time and utilizez multiple java files containing a multitude of different functions and classes to develop a Pac-Man game of our own. In addition to Java, we also utilized the game-making Java tools released by our professor that was also heavily used in a lot of our ICS 111 homeworks and projects.
 
