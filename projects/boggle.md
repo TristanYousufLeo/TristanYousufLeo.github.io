@@ -6,8 +6,8 @@ title: "Boggle"
 date: 1/26/2024
 published: true
 labels:
-  - Java
-  - GitHub
+  - Python
+  - DevLeague
 summary: "A Python game from the years before my college days"
 ---
 
