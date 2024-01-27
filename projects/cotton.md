@@ -1,59 +1,24 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/projects/Pacman_HD.png
+title: "Pac-Man"
+date: 1/26/2024
 published: true
 labels:
-  - Lisp
+  - Java
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A collaborated game that I co-developed for ICS 111."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/projects/Pacman_HD.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This Pac-Man game was my final project for ICS 111, in collaboration with two other students in my class. This game featured the fullest extent of our Java knowledge at the time and utilizez multiple java files containing a multitude of different functions and classes to develop a Pac-Man game of our own. In addition to Java, we also utilized the game-making Java tools released by our professor that was also heavily used in a lot of our ICS 111 homeworks and projects.
 
-To give you a flavor of the game, here is an excerpt from one run:
+My part in this project involved creating the map of the game. I used a file scanner that scanned a text file starting from the top row going from left to right and used key words to insert specific terrain blocks that acted as the map by using another input reader tuned to the R character for dirt and G character for grass. While this did cause the map to take a while to load at start-up, it also allows for us to easily customize the map to our liking by simply changing the characters around.
 
-<hr>
+Overall, this project was a challenging and enjoyable experience that really highlighted the necessity, or rather extreme usefulness, of having teammates around to help ease the burden of creating a big project like this one. I'm proud of what we accomplished with this project.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Below is a link to the project:
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/TristanYousufLeo/Pac-man"><i class="large github icon "></i>TristanYousufLeo/Pac-man</a>
