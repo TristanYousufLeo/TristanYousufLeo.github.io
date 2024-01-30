@@ -22,7 +22,3 @@ I wanted to get a career working with computers ever since I started high school
 ### Looking to the future
 
 While programming isn't something that I expect to be doing in my potential line of work, it's a good idea to branch out and learn new skills or refine old ones, which is, in my case, software engineering. Though, learning Javascript and all it can do isn't necessarily a primary focus of mine for this class, although I do count it as a bonus. Rather, I want to learn more about the development process when it comes to engineering and how I could apply that to not just my field of work, but also in my interactions with any developers who may want me to test a product of theirs. While the gains of learning software engineering won't be as apparent at first, in the future, I believe it will grant me great insight the next time someone asks me to review and test a security product of theirs.
-
-### Future Imperfect
-
-Of course, not every plan survives perfectly intact. Sometimes, some or a lot of doors may end up closing on me while others open wide for me to take a step in, and some of those open doors will require experience working with code of all kinds. This class and the experiences I will encounter will help to better prepare me for such scenarios. While I do have a pretty clear vision on what I want to do, it's always wise to have a back-up plan or several.
