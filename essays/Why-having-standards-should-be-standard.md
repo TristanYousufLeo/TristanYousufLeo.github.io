@@ -9,7 +9,7 @@ labels:
   - Coding Standards
   - Language Skills
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/javascript/Questions-3.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript/b9eb9c00-5aad-11eb-8099-f39fa4a1c7c7.png">
 
 ### Standards? What standards?
 
