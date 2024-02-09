@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why-having-standards-should-be-standard)"
+title: "Why having standards should be standard"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-8
 published: true
