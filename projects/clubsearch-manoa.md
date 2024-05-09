@@ -3,11 +3,11 @@ layout: project
 type: project
 image: img/projects/16-letter-Boggle-puzzle-1197937792.jpg
 title: "Clubsearch Manoa"
-date: 1/26/2024
+date: 5/08/2024
 published: true
 labels:
-  - Python
-  - DevLeague
-summary: "A Python game from the years before my college days"
+  - Javascript
+  - React
+summary: "A website for the browsing of clubs at UH Manoa"
 ---
 
