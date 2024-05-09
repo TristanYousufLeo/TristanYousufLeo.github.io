@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: "A Journey's End"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-22
+date: 2024-5-08
 published: true
 labels:
-  - UI frameworks
-  - website building
+  - Coding
+  - Software Engineer
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/javascript/5558066.png">
 
