@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Frameworks: the bones of any good-looking website"
+title: "A Journey's End"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-22
 published: true
@@ -9,6 +9,7 @@ labels:
   - UI frameworks
   - website building
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript/5558066.png">
 
 ## Reflections on days past and new understandings
 
