@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Expending Effort For Efficiency"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-22
+date: 2024-5-10
 published: true
 labels:
   - UI frameworks
