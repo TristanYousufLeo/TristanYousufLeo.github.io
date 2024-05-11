@@ -21,4 +21,5 @@ For my part, I had implemented the ability for a super admin to delete a club fr
 
 This project was definitely stressful but also satisfying as well. I had plenty of moments where I wanted to scream in frustration when the deletion method, well, didn't delete and when the tests kept failing one after the other, but the satisfaction from finally identifying and fixing the issues and then seeing them work was immense. I learned a lot about collaborative development and better coding practices from this project and I look forward to putting them to good use in the near future.
 
-Source: 
+Documentation: <a href="https://clubsearch-manoa.github.io/r"><i class="large github icon "></i>Clubsearch-Manoa</a>
+Source: <a href="https://github.com/clubsearch-manoa/clubsearch-manoa"><i class="large github icon "></i>Github/Clubsearch-Manoa</a>
