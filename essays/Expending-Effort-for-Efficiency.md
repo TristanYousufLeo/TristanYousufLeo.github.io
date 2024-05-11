@@ -6,8 +6,8 @@ title: "Expending Effort For Efficiency"
 date: 2024-5-10
 published: true
 labels:
-  - UI frameworks
-  - website building
+  - Effort
+  - Efficiency
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/javascript/effort.jpg">
 
