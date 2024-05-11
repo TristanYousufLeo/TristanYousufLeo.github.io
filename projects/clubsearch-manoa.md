@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/16-letter-Boggle-puzzle-1197937792.jpg
+image: img/projects/clubsearch_logo.png
 title: "Clubsearch Manoa"
 date: 5/08/2024
 published: true
@@ -10,6 +10,8 @@ labels:
   - React
 summary: "A website for the browsing of clubs at UH Manoa"
 ---
+
+<img class="img-fluid" src="../img/projects/clubsearch_logo.png">
 
 For our final project of ICS 314, we were tasked with the creation of a website where students could browse for the various clubs of UH Manoa and quickly get in touch with them if desired. This project was my biggest one yet, as I had to collaborate with four other group members, each with different jobs. After many days of hard work, our project was completed and tested using five testers from within the UH community. This was the culmination of what we had learned over this semester from ICS 314 and demonstrates our newly acquired coding skills and techniques.
 
